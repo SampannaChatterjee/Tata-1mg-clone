@@ -42,7 +42,7 @@ Snippets of the website
 
 * Home
 
-  ![image](https://drive.google.com/uc?export=view&id=1F-yfZdvVD-we0FSEz0jJxuQBoWL8x5S)
+  ![image](https://drive.google.com/uc?export=view&id=/1F-yfZdvVD-we0FSEz0jJxuQBoWL8x5S_)
 
 * Products
   
